@@ -6,6 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="shortcut icon" href="img/start_favicon.png" type="image/png">
   <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,700" rel="stylesheet">
+
   <link rel="stylesheet" href="css/style.min.css">
   <title>TEST</title>
 </head>
@@ -20,17 +21,19 @@
         <input id="edit_date" type="date" name="date"/>
       </label>
       <div class="button_block">
-        <input id="editTask" type="submit" name="" value="Применить">
+        <input  id="editTask" type="submit" name="" value="Применить">
         <button id="closeDialog" type="button" name="button">Отмена</button>
       </div>
     </div>
   </dialog>
+
     <div class="page">
       <header class="wrapper wrapper_header">
         <section class="frame frame_header">
           <h1 class="header_title">Задачник</h1>
         </section>
       </header>
+
         <div class="wrapper wrapper_task_management">
           <div class="frame frame_task_management">
             <div class="options_panel">
@@ -42,39 +45,33 @@
                 <input id="task_date" type="date" name="date"/>
               </label>
               <input id="addTask" type="submit" name="" value="Добавить">
+              <div id="error"></div>
             </div>
           </div>
+
           <section class="frame frame_task">
             <h2>Мои задачи</h2>
             <div id="now_task"></div>
           </section>
+
           <section class="frame frame_task">
             <h2>Выполненные задачи</h2>
             <div id="closed_task"></div>
           </section>
+
           <section class="frame frame_task">
             <h2>Проваленные задачи</h2>
             <div id="overdue_task"></div>
           </section>
         </div>
+
         <div class="i">
-          <h2>Заметка.</h2>
-          <a href="https://github.com/Evil-Fox/evil-fox.github.io/blob/master/scripts/common/task2.js" target="_blank" style="color:#4791E1; ">Мой файл JavaScript</a>
-          <h3>Баги которые обнаружил:</h3>
-          <ul>
-            <li>1. В FireFox Летит верстка при кликах. Не стал разбираться в хроме все работает.</li>
-            <li>2. В FireFox выходит предупреждение "Пустая строка не может быть аргументом метода getElementById()." Не стал выяснять в чем дело.</li>
-            <li>3. Нельзя задавать две задачи с одинаковыми именами. При изменении подобной задачи все отразиться на ее дубликате. Связанно с тем что я использовал имя как уникальный ID. Для себя в дальнейшем перепишу на нормальный ID.</li>
-          </ul>
-          <h3>Сложности которые испытал:</h3>
-          <ul>
-            <li>1. Все было сложно. (переписывал все 3 раза каждый раз по-разному).</li>
-            <li>2. Был тупик с массивом элементов. На форуме подсказали одну строчку которая в дальнейшем мне не раз помогла.</li>
-          </ul>
-          <h3>Итог:</h3>
-          <p>Было ужасно интересно. Потраченного времени не жаль. Узнал много нового. Наконец сделал хоть что-то не связанное с версткой. Каждая поставленная и решенная задача приносила удовольствие.</p>
+          <a target="_blank" href="https://github.com/Evil-Fox/evil-fox.github.io/blob/master/scripts/common/task2.js">Мой JavaScript</a>
         </div>
     </div>
+
+    <script src="scripts/vendor.min.js"></script>
+    <!-- <script src="data/task.json"></script> -->
     <script src="scripts/common.min.js" defer></script>
 </body>
 </html>
