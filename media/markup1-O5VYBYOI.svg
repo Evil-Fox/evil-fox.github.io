@@ -1,0 +1,39 @@
+<svg width="172" height="172" viewBox="0 0 172 172" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0H172V172H0V0Z" fill="#B2B3B7"/>
+<path d="M23 0H59V19H23V0Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 20V0H23V19H59V20H22Z" fill="white"/>
+<path d="M23 38H59V57H23V38Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 58V38H23V57H59V58H22Z" fill="white"/>
+<path d="M23 76H59V94H23V76Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 95V76H23V94H59V95H22Z" fill="white"/>
+<path d="M23 114H59V132H23V114Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 133V114H23V132H59V133H22Z" fill="white"/>
+<path d="M23 20H59V37H23V20Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 38V20H23V37H59V38H22Z" fill="white"/>
+<path d="M23 58H59V75H23V58Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 76V58H23V75H59V76H22Z" fill="white"/>
+<path d="M23 95H59V113H23V95Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 114V95H23V113H59V114H22Z" fill="white"/>
+<path d="M23 133H59V151H23V133Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 152V133H23V151H59V152H22Z" fill="white"/>
+<path d="M23 152H59V171H23V152Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 172V152H23V171H59V172H22Z" fill="white"/>
+<path d="M149 0H113V19H149V0Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M150 20V0H149V19H113V20H150Z" fill="white"/>
+<path d="M149 38H113V57H149V38Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M150 58V38H149V57H113V58H150Z" fill="white"/>
+<path d="M149 76H113V94H149V76Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M150 95V76H149V94H113V95H150Z" fill="white"/>
+<path d="M149 114H113V132H149V114Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M150 133V114H149V132H113V133H150Z" fill="white"/>
+<path d="M149 20H113V37H149V20Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M150 38V20H149V37H113V38H150Z" fill="white"/>
+<path d="M149 58H113V75H149V58Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M150 76V58H149V75H113V76H150Z" fill="white"/>
+<path d="M149 95H113V113H149V95Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M150 114V95H149V113H113V114H150Z" fill="white"/>
+<path d="M149 133H113V151H149V133Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M150 152V133H149V151H113V152H150Z" fill="white"/>
+<path d="M149 152H113V171H149V152Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M150 172V152H149V171H113V172H150Z" fill="white"/>
+</svg>

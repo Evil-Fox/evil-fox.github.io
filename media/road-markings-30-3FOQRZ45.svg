@@ -1,0 +1,28 @@
+<svg width="300" height="150" viewBox="0 0 300 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_74_2790)">
+<path d="M0.53125 0H300V150H0.53125V0Z" fill="#777777"/>
+<path d="M12.5 30H-15V47.5H12.5V30Z" fill="white"/>
+<path d="M32.5 47.5H50V30H32.5V47.5Z" fill="white"/>
+<path d="M70 30V47.5H87.5V30H70Z" fill="white"/>
+<path d="M107.5 30V47.5H125V30H107.5Z" fill="white"/>
+<path d="M145 30V47.5H162.5V30H145Z" fill="white"/>
+<path d="M182.5 30V47.5H200V30H182.5Z" fill="white"/>
+<path d="M220 30V47.5H237.5V30H220Z" fill="white"/>
+<path d="M257.5 30V47.5H275V30H257.5Z" fill="white"/>
+<path d="M295 30V47.5H307.5V30H295Z" fill="white"/>
+<path d="M12.5 102.5H-15V120H12.5V102.5Z" fill="white"/>
+<path d="M32.5 120H50V102.5H32.5V120Z" fill="white"/>
+<path d="M70 102.5V120H87.5V102.5H70Z" fill="white"/>
+<path d="M107.5 102.5V120H125V102.5H107.5Z" fill="white"/>
+<path d="M145 102.5V120H162.5V102.5H145Z" fill="white"/>
+<path d="M182.5 102.5V120H200V102.5H182.5Z" fill="white"/>
+<path d="M220 102.5V120H237.5V102.5H220Z" fill="white"/>
+<path d="M257.5 102.5V120H275V102.5H257.5Z" fill="white"/>
+<path d="M295 102.5V120H307.5V102.5H295Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_74_2790">
+<rect width="300" height="150" fill="white"/>
+</clipPath>
+</defs>
+</svg>

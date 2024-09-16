@@ -1,0 +1,49 @@
+<svg width="172" height="172" viewBox="0 0 172 172" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_858_26386)">
+<path d="M0 0H172V172H0V0Z" fill="#B2B3B7"/>
+<path d="M23 152.5L59 143V162.5L23 172V152.5Z" fill="#D9D9D9"/>
+<path d="M23 112.5L59 103V122.5L23 132V112.5Z" fill="#D9D9D9"/>
+<path d="M23 132.5L59 122V142.5L23 152V132.5Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 173V153L23 152.5V172L59 162V163L22 173Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 133V113L23 112.5V132L59 122V123L22 133Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 153V133L23 132.5V152L59 142V143L22 153Z" fill="white"/>
+<path d="M23 172.5L59 163V182.5L23 192V172.5Z" fill="#D9D9D9"/>
+<path d="M23 93.5L59 84V103.5L23 113V93.5Z" fill="#D9D9D9"/>
+<path d="M23 53.5L59 44V63.5L23 73V53.5Z" fill="#D9D9D9"/>
+<path d="M23 73.5L59 63V83.5L23 93V73.5Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 114V94L23 93.5V113L59 103V104L22 114Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 74V54L23 53.5V73L59 63V64L22 74Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 94V74L23 73.5V93L59 83V84L22 94Z" fill="white"/>
+<path d="M23 34.5L59 25V44.5L23 54V34.5Z" fill="#D9D9D9"/>
+<path d="M23 -5.5L59 -15V4.5L23 14V-5.5Z" fill="#D9D9D9"/>
+<path d="M23 14.5L59 4V24.5L23 34V14.5Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 55V35L23 34.5V54L59 44V45L22 55Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 15V-5L23 -5.5V14L59 4V5L22 15Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 35V15L23 14.5V34L59 24V25L22 35Z" fill="white"/>
+<path d="M149 65.5L113 75V55.5L149 46V65.5Z" fill="#D9D9D9"/>
+<path d="M149 105.5L113 115V95.5L149 86V105.5Z" fill="#D9D9D9"/>
+<path d="M149 85.5L113 96V75.5L149 66V85.5Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M150 45V65L149 65.5V46L113 56V55L150 45Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M150 85V105L149 105.5V86L113 96V95L150 85Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M150 65V85L149 85.5V66L113 76V75L150 65Z" fill="white"/>
+<path d="M149 5.5L113 15V-4.5L149 -14V5.5Z" fill="#D9D9D9"/>
+<path d="M149 45.5L113 55V35.5L149 26V45.5Z" fill="#D9D9D9"/>
+<path d="M149 25.5L113 36V15.5L149 6V25.5Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M150 -15V5L149 5.5V-14L113 -4V-5L150 -15Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M150 25V45L149 45.5V26L113 36V35L150 25Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M150 5V25L149 25.5V6L113 16V15L150 5Z" fill="white"/>
+<path d="M149 124.5L113 134V114.5L149 105V124.5Z" fill="#D9D9D9"/>
+<path d="M149 164.5L113 174V154.5L149 145V164.5Z" fill="#D9D9D9"/>
+<path d="M149 144.5L113 155V134.5L149 125V144.5Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M150 104V124L149 124.5V105L113 115V114L150 104Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M150 144V164L149 164.5V145L113 155V154L150 144Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M150 124V144L149 144.5V125L113 135V134L150 124Z" fill="white"/>
+<path d="M149 183.5L113 193V173.5L149 164V183.5Z" fill="#D9D9D9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M150 163V183L149 183.5V164L113 174V173L150 163Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_858_26386">
+<rect width="172" height="172" fill="white"/>
+</clipPath>
+</defs>
+</svg>
